@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    color: #111; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1;
+}
+
+p {
+    font-size: 16pt;
+}
+
+#title { 
+    font-size: 50pt; 
+}
+
+#rules {
+    font-size: 21pt; 
+    margin-left: 100pt;
+    margin-right: 100pt;
+    text-align: left;
+}
+
+.red_message{
+    color : red;
+}
+
+input {
+    width: 33%;
+    padding: 10pt 10pt;
+    border: solid;
+    border-radius: 25pt;
+    font-size: 15pt; 
+}
+
+button {
+    margin: 10pt;
+    border: solid;
+    padding: 10pt 30pt;
+    font-size: 15pt;
+    border-radius: 15pt;
+}
+
+/* #title {
+    text-align: center;
+}
+
+#area {
+    text-align: center;
+  }
+
+.section {
+    margin: auto;
+    background-color: white;
+    width: 90%;
+    border: 5pt solid black;
+    padding: 10pt;
+}
+
+div {
+    padding: 5pt;
+} */
